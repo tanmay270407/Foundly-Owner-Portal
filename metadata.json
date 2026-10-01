@@ -1,0 +1,6 @@
+{
+  "name": "Foundly Owner Portal",
+  "description": "Executive governance and campus administration management portal for the Foundly platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
